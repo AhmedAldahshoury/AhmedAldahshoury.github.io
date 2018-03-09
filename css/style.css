@@ -19,6 +19,10 @@
 		position: relative;
 
 }
+.gallery{
+  background-color: #182327
+}
+
 
 
 
@@ -166,7 +170,7 @@ a:focus, a:hover {
 }
 ul.address {
     margin-top: 1.5em;
-      border-top: 2px dotted #00bcd4;
+      border-top: 2px dotted #1CAC78;
     padding-top: 0.5em;
 }
 ul.address li ul.agileits-address-text li {
@@ -216,7 +220,19 @@ ul.agileits-address-text li a {
     letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+.w3-banner-grid-left h3 {
+  font-size: 3em;
+    color: #fff;
+    letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
 .w3-banner-grid-right p {
+    color:#c5c2c2;
+    font-size: 1em;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+}
+.w3-banner-grid-left p {
     color:#c5c2c2;
     font-size: 1em;
     line-height: 1.8em;
@@ -280,7 +296,7 @@ li.agile-it-adress-left b {
 	width: 55px;
 	height: 55px;
 	border-radius: 30px;
-	background:#00bcd4;
+	background:#1CAC78;
 	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 	-moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
 	-o-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
@@ -673,7 +689,7 @@ li.agile-it-adress-left b {
 }
 .w3-about-grid-right1 h5 {
     font-size: 1.3em;
-    color:#00bcd4;
+    color:#1CAC78;
 	text-transform: capitalize;
 	    letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -730,7 +746,7 @@ h3.w3-head-project {
 }
  .title-w3ls h4,.w3ls-heading h3,.w3-gallery-head h3,.w3-about-head h3{
 	font-size:3em;
-    color:#00bcd4;
+    color:#1CAC78;
 	font-weight: 600;
 	text-align:center;
 	text-transform:uppercase;
@@ -739,8 +755,8 @@ h3.w3-head-project {
 }
 /*-- education and experience --*/
 .w3-edu-top {
-    background: #212121;
-
+    background: #182327;
+/*--  212121--*/
 }
 .w3-edu-grid-left h3 {
    color: #fff;
@@ -767,7 +783,7 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-grid-header h3 {
-       color: #00bcd4;
+       color: #1CAC78;
     font-size: 3em;
         font-family: 'Poppins', sans-serif;
 
@@ -1712,7 +1728,7 @@ h4.modal-title {
 	}
 	.title-w3ls h4, .w3ls-heading h3, .w3-gallery-head h3, .w3-about-head h3 {
     font-size: 3em;
-    color: #00bcd4;
+    color: #1CAC78;
     font-weight: 600;
     text-align: center;
     text-transform: uppercase;
